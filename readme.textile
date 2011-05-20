@@ -1,0 +1,23 @@
+
+h1. Project
+
+AndHand is a helper library to assist android developers in developing android
+applications with best practices in mind. That is not to say that other developers
+libraries are not good, but android mobile java development is as complicated
+as desktop java or enterprise java and we need to un-complicate it.
+
+
+
+h1. Project License
+
+
+h1. Usage
+
+
+
+h1. Feedback
+
+
+
+h1. Credits
+
